@@ -84,6 +84,11 @@ a {
 header .navbar{
     margin: auto;
 }
+.tt-nav-buttons .free-trial {
+padding: 14px 19px;
+background-color: #C779E7;
+border: 0;
+}
 @media only screen and (max-width: 900px) {
   .nav-menu {
     display: block;
